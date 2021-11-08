@@ -1,0 +1,21 @@
+{
+    "name": "monte-cristo",
+    "displayName": "monte-cristo",
+    "description": "Official Monte Cristo Theme. One theme for all, all platforms for one.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monte Cristo Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monte Cristo Theme-color-theme.json"
+            }
+        ]
+    }
+}
