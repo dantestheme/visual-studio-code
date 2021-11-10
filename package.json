@@ -14,7 +14,7 @@
             {
                 "label": "Monte Cristo Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Monte Cristo Theme-color-theme.json"
+                "path": "./themes/monte-cristo.json"
             }
         ]
     }
