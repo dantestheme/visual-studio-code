@@ -6,6 +6,10 @@
     "publisher": "monte-cristo-theme",
     "license": "MIT",
     "homepage": "https://monte-cristos.github.io/monte-cristo-website/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/monte-cristos/visual-studio-code"
+    },
     "engines": {
         "vscode": "^1.62.0"
     },
