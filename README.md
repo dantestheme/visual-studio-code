@@ -1,3 +1,5 @@
-# This theme is under progress X(
+## [Visual Studio Code](http://code.visualstudio.com)
 
-## Thank you for your interest and explore more apps with Monte Cristo![https://monte-cristos.github.io/monte-cristo-website/]!
+## Activating theme
+
+Run Visual Studio Code. The Monte Cristo Theme will be available from `File -> Preferences -> Color Theme` dropdown menu.

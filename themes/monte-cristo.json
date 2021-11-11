@@ -288,7 +288,7 @@
                 "entity.name.filename"
             ],
             "settings": {
-                "foreground": "#FFEA80"
+                "foreground": "#fff476"
             }
         },
         {
@@ -334,7 +334,7 @@
                 "markup.italic"
             ],
             "settings": {
-                "foreground": "#FFEA80",
+                "foreground": "#fff476",
                 "fontStyle": "italic"
             }
         },
@@ -388,7 +388,7 @@
                 "markup.quote"
             ],
             "settings": {
-                "foreground": "#FFEA80",
+                "foreground": "#fff476",
                 "fontStyle": "italic"
             }
         },
@@ -448,7 +448,7 @@
                 "markup.quote.markdown meta.paragraph.markdown punctuation.definition.string.end"
             ],
             "settings": {
-                "foreground": "#FFEA80"
+                "foreground": "#fff476"
             }
         },
         {
@@ -876,7 +876,7 @@
                 "constant.character.escape.backslash.regexp"
             ],
             "settings": {
-                "foreground": "#FFEA80"
+                "foreground": "#fff476"
             }
         },
         {
@@ -941,7 +941,7 @@
                 "string"
             ],
             "settings": {
-                "foreground": "#FFEA80"
+                "foreground": "#fff476"
             }
         },
         {
@@ -1020,7 +1020,7 @@
                 "meta.selectionset.graphql variable"
             ],
             "settings": {
-                "foreground": "#FFEA80"
+                "foreground": "#fff476"
             }
         },
         {
@@ -1088,7 +1088,7 @@
                 "meta.scope.prerequisites.makefile"
             ],
             "settings": {
-                "foreground": "#FFEA80"
+                "foreground": "#fff476"
             }
         },
         {
@@ -1097,7 +1097,7 @@
                 "meta.attribute-selector.scss"
             ],
             "settings": {
-                "foreground": "#FFEA80"
+                "foreground": "#fff476"
             }
         },
         {
