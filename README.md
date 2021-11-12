@@ -1,3 +1,5 @@
+# 🎩 Monte Cristo for Visual Studio Code 
+
 ## [Visual Studio Code](http://code.visualstudio.com)
 
 ## Preview
