@@ -4,7 +4,7 @@
 
 ## Preview
 
-![Screenshot](https://github.com/monte-cristos/visual-studio-code/blob/master/vscode1.png)
+![Screenshot](https://raw.githubusercontent.com/monte-cristos/visual-studio-code/master/vscode1.png)
 
 ## Activating theme
 

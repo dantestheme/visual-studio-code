@@ -9,3 +9,7 @@ First release
 ## 1.0.1
 
 add preview image
+
+## 1.0.2
+
+fix preview image error
