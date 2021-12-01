@@ -13,3 +13,7 @@ add preview image
 ## 1.0.2
 
 fix preview image error
+
+## 1.1.0
+
+change tab color
