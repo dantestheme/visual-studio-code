@@ -17,3 +17,7 @@ fix preview image error
 ## 1.1.0
 
 change tab color
+
+## 2.0.0
+
+renew the theme(change the color scheme and theme's name)

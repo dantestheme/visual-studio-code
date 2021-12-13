@@ -1,14 +1,14 @@
 {
-    "name": "monte-cristo",
-    "displayName": "Monte Cristo",
+    "name": "dantes",
+    "displayName": "Dantes",
     "description": "Official Monte Cristo Theme. One theme for all, all platforms for one.",
-    "version": "1.0.2",
-    "publisher": "monte-cristo-theme",
+    "version": "2.0.0",
+    "publisher": "dantes-theme",
     "license": "MIT",
-    "homepage": "https://monte-cristos.github.io/monte-cristo-website/",
+    "homepage": "https://dantestheme.github.io/dantes-website/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/monte-cristos/visual-studio-code"
+        "url": "https://github.com/dantestheme/visual-studio-code"
     },
     "engines": {
         "vscode": "^1.62.0"
@@ -17,18 +17,19 @@
         "Themes"
     ],
     "keywords": [
-        "monte-cristo",
+        "dantes",
         "dark",
         "theme",
-        "color-theme"
+        "color-theme",
+        "dark-theme"
     ],
     "icon": "icon.png",
     "contributes": {
         "themes": [
             {
-                "label": "Monte Cristo Theme",
+                "label": "Dantes",
                 "uiTheme": "vs-dark",
-                "path": "./themes/monte-cristo.json"
+                "path": "./themes/dantes.json"
             }
         ]
     }
