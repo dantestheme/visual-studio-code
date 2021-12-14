@@ -21,3 +21,7 @@ change tab color
 ## 2.0.0
 
 renew the theme(change the color scheme and theme's name)
+
+## 2.0.1
+
+fix the selection background
