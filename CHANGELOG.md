@@ -25,3 +25,7 @@ renew the theme(change the color scheme and theme's name)
 ## 2.0.1
 
 fix the selection background
+
+## 2.1.0
+
+change the activity background color
