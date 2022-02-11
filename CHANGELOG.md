@@ -29,3 +29,7 @@ fix the selection background
 ## 2.1.0
 
 change the activity background color
+
+## 2.1.1
+
+fix the color of selection color which is for regions with the same content as the selection(`editor.selctionHightlightBackground`)

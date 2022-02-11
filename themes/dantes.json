@@ -1,5 +1,5 @@
 {
-    "name": "Monte Cristo Theme",
+    "name": "Dantes Theme",
     "type": "dark",
     "colors": {
         "terminal.background": "#1d2128",
@@ -80,7 +80,7 @@
         "editor.foreground": "#FAFAFA",
         "editorLineNumber.foreground": "#C6C6C6",
         "editor.selectionBackground": "#006a6a71",
-        "editor.selectionHighlightBackground": "##006a6a8a",
+        "editor.selectionHighlightBackground": "#39c5bb8a",
         "editor.foldBackground": "#006a6a",
         "editor.wordHighlightBackground": "#006a6a80",
         "editor.wordHighlightStrongBackground": "#006a6a80",
